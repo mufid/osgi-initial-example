@@ -2,6 +2,10 @@
 
 This is initial repository for OSGi.
 
+## Using Ant
+
+This is Ant project. If you have ant, just type `ant`. Enjoy.
+
 ## Importing to Eclipse
 
 The most easiest way to getting started with this project is using Eclipse. To do that:
